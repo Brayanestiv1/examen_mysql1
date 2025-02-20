@@ -56,7 +56,7 @@ es similar a la solucion pasada, sin embargo la tabla y los datos a agregar camb
 
 
 
-5. **Crear un pedido para un cliente:**
+
 
 
 
